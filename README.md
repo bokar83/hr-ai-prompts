@@ -19,6 +19,8 @@ One file per prompt, in the Prompts folder.
 9. **[Answer a policy question from policy text](Prompts/09-answer-a-policy-question-from-policy-text.md)**: Answer an employee question from supplied policy text only, quoting the passage.
 10. **[Turn a long update into a leader brief](Prompts/10-turn-a-long-update-into-a-leader-brief.md)**: Headline, ask, evidence and risk in under 150 words.
 
+Two layouts: the Prompts folder has flat files to copy from; `prompts/<name>/SKILL.md` holds the same prompts for import tools.
+
 ## How to use them
 
 1. Open the Prompts folder and pick a prompt file.
